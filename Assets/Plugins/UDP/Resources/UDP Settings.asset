@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -107981364, guid: 741884b37a0234d86bb740e55081cd5f, type: 3}
+  m_Name: UDP Settings
+  m_EditorClassIdentifier: 
+  UnityProjectID: 3636a6a4-f74b-425c-89ad-1bbda5c8050f
+  UnityClientID: IlySSLamE_Dqd29Tom5EMw
+  UnityClientKey: tpmP9-oTOOnQvYdbEv-ZPtU643bHn3WXWx2tUAzZL68
+  UnityClientRSAPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApdDUWgN0oLlrRiywFn9UxB9EW132U9I6eCB29LlwSFlRLLvGqwnAWgjbcDc+Czydz6qaLuvFTL6X7AwvWMXnvcXUwKlW0EcTAlsyN+Q4hGYZO6RhuIYkd5briTSWwFbcsW/TPgquX5fbPWVpJ0B8DlbHiVJBktuxGBsfueEMTOlcRzKzen93B8bS4dSplwkDRFoV5pheaz7qsTOT/tFP6bO9Tzmbwj0Yon+ZtEeT8rUTThlgtZnPRZyimNr73Dtg19XHXchSCP9rVTcnKNpwaPQhCqDEKvZIi4KfrRdAdgroJrgH7dIDyxOuUCXVgxFhtPd4Ssm4E7eSAHuz5lvilQIDAQAB
+  AppName: Iridium
+  AppSlug: 72dfbe68-b018-4d9d-a2c0-584de491c20b
+  AppItemId: 5f4f3519eaf23000208bd424
+  Permission: 
